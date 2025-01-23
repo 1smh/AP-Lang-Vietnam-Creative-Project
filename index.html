@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Vietnam War Project</title>
+    <script src="https://unpkg.com/stlite@latest/dist/index.js"></script>
+  </head>
+  <body>
+    <div id="stlite"></div>
+    <script>
+      window.stlite.mount({
+        requirements: "./requirements.txt",
+        entry: "./Home.py",
+      }, document.getElementById("stlite"));
+    </script>
+  </body>
+</html>

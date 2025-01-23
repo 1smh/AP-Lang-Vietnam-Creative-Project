@@ -1,0 +1,8 @@
+{
+    "entry": "Home.py",
+    "requirements": ["streamlit==1.41.0", "pydeck", "pandas"],
+    "theme": {
+      "primaryColor": "#4a8acf"
+    }
+  }
+  

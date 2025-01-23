@@ -1,0 +1,7 @@
+streamlit==1.41.0
+pandas
+altair
+pydeck
+plotly
+numpy
+Pillow
